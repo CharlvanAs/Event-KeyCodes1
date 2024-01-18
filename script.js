@@ -9,9 +9,9 @@ ${event.key === '' ? 'Space' : event.key}
 ${event.keyCode}
 <small>event.key</small>
 </div>
-${ event.code}
+
 <div class="key">
-KeyA
+${ event.code}
 <small>event.key</small>
 </div>`
 })
